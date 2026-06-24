@@ -103,7 +103,7 @@
   <!-- Line 7 -->
   <text x="50" y="240" class="code fade-in" font-size="12" style="animation-delay:1.9s">
     <tspan fill="#ff7b72">// </tspan>
-    <tspan fill="#8b949e">always learning...</tspan></br>
+    <!-- <tspan fill="#8b949e">always learning...</tspan> -->
     <tspan fill="#8b949e">Disponible pourl'emploi...</tspan>
     <tspan class="cursor" fill="#58a6ff"> █</tspan>
   </text>
